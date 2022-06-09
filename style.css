@@ -1,0 +1,35 @@
+#header {
+    background-color:rgb(68, 165, 255);
+	font: italic normal 180% 'Times New Roman', Times, serif;
+	letter-spacing: 0.2em;
+	margin: 0;
+	padding: 15px 10px 15px 60px;  
+}
+.site-title{
+    
+     text-align: center;
+}
+.site-title a{
+    color:rgb(0, 0, 0); 
+    text-decoration: double;
+}
+.site-description{
+    margin-top: -30px;
+    color:rgb(0, 0, 0); 
+    text-align: center;
+}
+.site-footer{
+    margin-top: 10px;
+    background-color:rgb(68, 165, 255);
+    height:100px;
+}
+.site-footer a{
+    text-decoration:none; 
+    color:rgb(0, 0, 0); 
+}
+.logo img{
+    width: 80px;
+    height: 80px;
+}
+/* contactus */
+
